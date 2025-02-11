@@ -4,6 +4,11 @@ Game Jam Ideas
 
         February 28th 2025 at 10:00 AM Azores Time - 6:00 AM Montreal Time
 
+        Create a 1 page game on paper for TEA
+
+        [Character Sheet](./Resources/TEA - Character Sheet.pdf)
+        [TEA Rules](./Resources/The Electrum Archive - Free Rules (1.4).pdf)
+
     - https://itch.io/jam/wgf2025a 
 
          February 28th 2025 at 11:00 PM to May 1st 2025 at 12:00 AM Azores Time - 8:00 PM Montreal Time
