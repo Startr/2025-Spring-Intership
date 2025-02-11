@@ -23,4 +23,4 @@ Art Example
 -----------
 
 
-![St. John the Baptist - by Leonardo Da Vinci](Saint-John-Leonardo-Da-Vinci-1615.png)
+![St. John the Baptist - by Leonardo Da Vinci](./art/Saint-John-Leonardo-Da-Vinci-1615.png)
