@@ -17,3 +17,10 @@ Participants
 2. Malcolm
 3. Alex
 4. Isabelle
+
+
+Art Example
+-----------
+
+
+![St. John the Baptist - by Leonardo Da Vinci](Saint-John-Leonardo-Da-Vinci-1615.png)
