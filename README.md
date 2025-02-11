@@ -23,4 +23,4 @@ Art Example
 -----------
 
 
-![St. John the Baptist - by Leonardo Da Vinci](./art/Saint-John-Leonardo-Da-Vinci-1615.png)
+![First Collabrative Drawing by Malcolm and Elizabeth](./art/FirstCollabrativeDrawing.png)
