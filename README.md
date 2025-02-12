@@ -1,26 +1,26 @@
-Our Project
-===========
+ Our Project
+================
 
-This is the repository for 2025 internship
-------------------------------------------
 
- We will be going over
+ This is the repository for 2025 internship
+--------------------------------------------
 
+We will be going over the following topics:
 - Game Jams
 - AI
 - Snap!
 
-Participants
-------------
 
+ Participants
+----------------
+                                              
 1. Elizabeth
 2. Malcolm
 3. Alex
 4. Isabelle
 
 
-Art Example
------------
-
-
-![First Collabrative Drawing by Malcolm and Elizabeth](./art/FirstCollabrativeDrawing.png)
+  Concept Art and Creative Notes
+----------------------------------
+                                              
+![First Collaborative Drawing by Malcolm and Elizabeth](./art/FirstCollabrativeDrawing.png)
