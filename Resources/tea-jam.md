@@ -3,15 +3,22 @@
 Keep your project manageable we must break the 14 days into clear phases. Below is a day-by-day (or phase-by-phase) checklist from brainstorming to final submission. Feel free to adjust based on your schedules, but try to sequence tasks in this logical order:
 
 **Day 1: Kickoff and Brainstorm**  
-- [ ] **Team Meeting:** Discuss the jam’s theme (if any) and initial ideas. Sit together (in person or via call) and list what kind of supplement or adventure you both find exciting. Encourage wild ideas – no judgments at this stage.  
-- [ ] **Scope and Goals:** Decide on a *rough concept* by the end of Day 1. For example, will you make a short adventure module, a collection of items, a new character archetype, or a region guide? Pick something that fits TEA’s world and is achievable in two weeks. Keep the scope small and focused. One strong location or a 4-5 page adventure is better than an overly ambitious project that you can’t finish.  
-- [ ] **Roles:** Clarify each person’s role. Typically, the **artist** will create illustrations or graphical elements, and the **developer** will handle writing, coding, and layout. But both can contribute to brainstorming and writing. Set expectations that you’ll review each other’s work and collaborate on the narrative and design.
+- [x] **Team Meeting:** Discuss the jam’s theme (if any) and initial ideas. Sit together (in person or via call) and list what kind of supplement or adventure you both find exciting. Encourage wild ideas – no judgments at this stage.  
+- [x] **Scope and Goals:** Decide on a *rough concept* by the end of Day 1. For example, will you make a short adventure module, a collection of items, a new character archetype, or a region guide? Pick something that fits TEA’s world and is achievable in two weeks. Keep the scope small and focused. One strong location or a 4-5 page adventure is better than an overly ambitious project that you can’t finish.  
+- [x] **Roles:** 
+Elizabeth Artist
+
+Malcolm Dev
+
+Clarify each person’s role. Typically, the **artist** will create illustrations or graphical elements, and the **developer** will handle writing, coding, and layout. But both can contribute to brainstorming and writing. Set expectations that you’ll review each other’s work and collaborate on the narrative and design.
 
 **Day 2: Planning and Setup**  
-- [ ] **Project Setup:** The developer sets up a repository on GitHub (or your preferred version control platform). Initialize it with a basic README and appropriate structure (e.g., folders for `art/`, `docs/` or `src/`, etc.). This is also a good time to create a blank HTML page or a simple site structure if you plan a web presentation.  
-- [ ] **Tool Access:** Ensure both team members have access to necessary tools. For art, set up a **Magma** canvas (invite the developer too if they need to see or comment). For code, make sure the artist can access the GitHub repo if they need to add files (or use a shared cloud folder for large art files if not putting them in Git).  
+- [x] **Project Setup:** The developer sets up a repository on GitHub (or your preferred version control platform). Initialize it with a basic README and appropriate structure (e.g., folders for `art/`, `docs/` or `src/`, etc.). This is also a good time to create a blank HTML page or a simple site structure if you plan a web presentation.  
+- [x] **Tool Access:** Ensure both team members have access to necessary tools. For art, set up a **Magma** canvas (invite the developer too if they need to see or comment). For code, make sure the artist can access the GitHub repo if they need to add files (or use a shared cloud folder for large art files if not putting them in Git).  
 - [ ] **Brainstorm Details:** Refine the concept from Day 1. Create an outline or list of content needed. For example: *“We need a backstory for the adventure, 3 NPC descriptions, a dungeon map, 2 illustrations (one cover image and one monster), and some rules for a collapsing temple mechanic to fit the theme.”* Having this list will drive your tasks.  
-- [ ] **Issue Tracking:** Create tasks for each item in your outline using a project board or issue tracker. For example, make an issue for “Write adventure outline”, “Sketch map of temple”, “Code HTML structure”, etc. (We’ll discuss tools in Section 5, but you can set this up now).
+- [x] **Issue Tracking:** Create tasks for each item in your outline using a project board or issue tracker. For example, make an issue for “Write adventure outline”, “Sketch map of temple”, “Code HTML structure”, etc. (We’ll discuss tools in Section 5, but you can set this up now).
+
+
 
 **Days 3-4: Writing and Sketching**  
 - [ ] **Write a Draft:** The developer (and possibly the artist, if they want to write) begins drafting the text of the supplement. Start with an outline and then fill in sections. Don’t worry about it being perfect – just get the ideas down. Aim to complete a rough draft of all textual content by the end of Day 4. This could be done in a simple Markdown file or directly in HTML, or even a Google Doc – whatever is comfortable, because you’ll revise it later.  
