@@ -6,7 +6,7 @@
 --------------------------------------------
 
 We will be going over the following topics:
-- Game Jams - [Electrum Archive TEA Jam](./TEA-Jam/tea-jam.md)
+- Game Jams - [Electrum Archive TEA Jam](./TEA-Jam/README.md)
 - AI
 - Snap!
 
